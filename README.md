@@ -1,5 +1,5 @@
 ## You can view the application live here:
-https://sharp-lichterman-cd0792.netlify.app/
+https://burger-builder-reactapp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
